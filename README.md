@@ -2,7 +2,7 @@
 
 ## Выполненные задания
 
-### ✅ Задание 1: Настройка Nginx вручную
+### ✅ Задание 1: Настройка Nginx
 **Папка:** `nginx-setup`  
 Настроен веб-сервер Nginx с помощью ansible-playbook, templates и variables.
 
